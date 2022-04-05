@@ -1,0 +1,7 @@
+{
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporterOpts.json"
+    },
+    "requestTimeout": 10000
+}

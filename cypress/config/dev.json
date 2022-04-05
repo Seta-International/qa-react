@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://localhost:3000",
+    "env": {
+        "username": "dev@email.com",
+        "password": "123",
+        "loginUrl": "http://localhost:80/login"
+    }
+}
